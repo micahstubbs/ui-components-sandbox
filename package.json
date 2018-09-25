@@ -1,0 +1,9 @@
+{
+  "name": "ui-components-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:micahstubbs/ui-components-sandbox.git",
+  "author": "Micah Stubbs <micah.stubbs@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false
+}
